@@ -50,7 +50,7 @@ static int sceBlock;
 #include "assem_x64.h"
 #endif
 #ifdef __arm__
-#include "assem_arm.h"
+#include "arm/assem_arm.h"
 #endif
 
 #define MAXBLOCK 4096

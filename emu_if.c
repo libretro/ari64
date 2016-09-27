@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 #include "emu_if.h"
-#include "pcsxmem.h"
+#include "backends/psx/pcsxmem.h"
 #include "../psxhle.h"
 #include "../r3000a.h"
 #include "../cdrom.h"
